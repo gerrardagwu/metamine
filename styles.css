@@ -46,7 +46,7 @@ body {
 }
 
 .links p {
-  font-family: poppins;
+  font-family: poppins, helvatica;
   font-size: 14px;
   color: #5F6974;
 }
@@ -111,7 +111,7 @@ body {
 }
 
 .hero-subtext {
-  font-family: poppins;
+  font-family: poppins, helvatica;
   font-size: 20px;
   letter-spacing: 0.8px;
   color: #5f6974;
@@ -232,7 +232,7 @@ body {
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  font-family: poppins;
+  font-family: poppins, helvatica;
   font-size: 12px;
   color: #5F6974;
   border-top-width: 1px;
@@ -248,3 +248,4 @@ body {
   justify-content: center;
   gap: 4px;
 }
+
